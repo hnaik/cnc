@@ -1,3 +1,3 @@
 ## Exercise
 
-![](exercise.jpg|width=250)
+![Exercise](exercise.jpg)
